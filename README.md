@@ -2,13 +2,6 @@
 
 This project is a simple hoverboard effect created using JavaScript, HTML, and CSS. The hoverboard consists of a grid of squares that change color when hovered over, creating a visually appealing interactive experience.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Code Explanation](#code-explanation)
-- [What I Learned](#what-i-learned)
-- [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
@@ -16,7 +9,7 @@ The hoverboard effect is achieved by dynamically creating a grid of squares and 
 
 ## Code Explanation
 
-```javascript
+```javascript 🤷🏽‍♂️
 const container = document.getElementById("container");
 
 const colors = ["#e74c3c", "#8e44ad", "#3499db", "#e67e22", "#2ecc71"];
