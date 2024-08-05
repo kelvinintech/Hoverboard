@@ -50,7 +50,7 @@ function getRandomColor() {
 
 
 
-Breakdown
+## Breakdown
 Selecting the Container: The container element is selected using document.getElementById.
 
 Color Array: An array of colors is defined. These colors will be used to set the background and box shadow of the squares.
